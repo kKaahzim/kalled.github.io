@@ -2,24 +2,25 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #696969cc;
+    background-color: #000000cc;
+    color: white;
 }
 header, nav, section, footer {
     padding: 20px;
     margin: 10px;
-    background-color: #fff;
+    background-color: #000000cc;
     border: 1px solid #ccc;
 }
 nav a {
     margin: 0 10px;
     text-decoration: none;
-    color: #0073aa;
+    color: #ffffff;
 }
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #0073aa;
-    color: #fff;
+    background-color: #ffffff;
+    color: #000000cc;
     text-decoration: none;
     border-radius: 5px; 
 }
@@ -38,5 +39,5 @@ nav a {
     margin: 10px;
     padding: 10px;
     border: 1px solid #ccc;
-    background-color: #f9f9f9;
+    background-color: #000000cc;
 }
